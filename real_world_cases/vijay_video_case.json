@@ -1,0 +1,109 @@
+{
+  "thread_id": "vijay_video_001",
+  "event": "celebrity_video",
+  "rumour": true,
+  "label_str": "unverified",
+  "label_binary": 1,
+  "label_3class": 2,
+  "source": {
+    "id": "src_1",
+    "text": "BREAKING: Viral video shows Thalapathy Vijay making a major announcement during a public appearance. Fans speculate political entry.",
+    "created_at": "2026-04-25T09:30:00Z",
+    "user_followers": 950000,
+    "user_verified": 1,
+    "user_created_at": "2014-03-12",
+    "retweet_count": 22000
+  },
+  "reactions": [
+    {
+      "id": "r1",
+      "text": "Is this video real or edited?",
+      "created_at": "2026-04-25T09:31:05Z",
+      "delay_seconds": 65,
+      "in_reply_to": "src_1",
+      "user_followers": 180,
+      "user_verified": 0
+    },
+    {
+      "id": "r2",
+      "text": "This is going viral everywhere now",
+      "created_at": "2026-04-25T09:32:20Z",
+      "delay_seconds": 140,
+      "in_reply_to": "src_1",
+      "user_followers": 420,
+      "user_verified": 0
+    },
+    {
+      "id": "r3",
+      "text": "He didn’t clearly say anything about politics in the video",
+      "created_at": "2026-04-25T09:33:10Z",
+      "delay_seconds": 190,
+      "in_reply_to": "src_1",
+      "user_followers": 600,
+      "user_verified": 0
+    },
+    {
+      "id": "r4",
+      "text": "Fans are overreacting, this is normal speech",
+      "created_at": "2026-04-25T09:34:00Z",
+      "delay_seconds": 240,
+      "in_reply_to": "src_1",
+      "user_followers": 350,
+      "user_verified": 0
+    },
+    {
+      "id": "r5",
+      "text": "Media will twist anything for views",
+      "created_at": "2026-04-25T09:35:30Z",
+      "delay_seconds": 330,
+      "in_reply_to": "src_1",
+      "user_followers": 720,
+      "user_verified": 0
+    },
+    {
+      "id": "r6",
+      "text": "Looks real but context is missing",
+      "created_at": "2026-04-25T09:36:45Z",
+      "delay_seconds": 405,
+      "in_reply_to": "src_1",
+      "user_followers": 290,
+      "user_verified": 0
+    },
+    {
+      "id": "r7",
+      "text": "Thalapathy entry into politics confirmed??",
+      "created_at": "2026-04-25T09:37:20Z",
+      "delay_seconds": 440,
+      "in_reply_to": "src_1",
+      "user_followers": 510,
+      "user_verified": 0
+    },
+    {
+      "id": "r8",
+      "text": "Wait for official statement before believing this",
+      "created_at": "2026-04-25T09:38:10Z",
+      "delay_seconds": 490,
+      "in_reply_to": "src_1",
+      "user_followers": 800,
+      "user_verified": 0
+    },
+    {
+      "id": "r9",
+      "text": "Clip might be taken out of context",
+      "created_at": "2026-04-25T09:39:25Z",
+      "delay_seconds": 565,
+      "in_reply_to": "src_1",
+      "user_followers": 260,
+      "user_verified": 0
+    },
+    {
+      "id": "r10",
+      "text": "This is why misinformation spreads so fast",
+      "created_at": "2026-04-25T09:40:10Z",
+      "delay_seconds": 610,
+      "in_reply_to": "src_1",
+      "user_followers": 900,
+      "user_verified": 1
+    }
+  ]
+}
